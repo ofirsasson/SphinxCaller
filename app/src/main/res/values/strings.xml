@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SphinxCaller</string>
+    <string name="instuctions">אמור את הספרות הרצויות. \n\nעל מנת להתקשר אמור "חייג". \n\nעל מנת למחוק ספרה אמור "מחק".\n\nעל מנת לאפס את המספר אמור "איפוס".</string>
+    <string name="dialog_title">אישור שיחה</string>
+    <string name="result_text">המספר יופיע פה</string>
+</resources>
